@@ -53,11 +53,12 @@ I designed the concept, defined the system requirements and planned how the comp
 The project is ongoing and continues to evolve through testing and improvements.
 
 ## Screenshots
-<img width="2522" height="1305" alt="image" src="https://github.com/user-attachments/assets/a9c3272f-0f1d-4c6c-a0f3-fc5b8e3fc744" />
 
-<img width="2512" height="1309" alt="image" src="https://github.com/user-attachments/assets/081fd5d0-f4b6-446c-b7fb-61d288876eec" />
+<img width="2519" height="1304" alt="Screenshot 2026-10-29 180437" src="https://github.com/user-attachments/assets/94a2a841-c644-4921-8812-4bffbd849953" />
+<img width="2513" height="1306" alt="Screenshot 2026-11-17 002243" src="https://github.com/user-attachments/assets/9d6b3ec1-e241-41b7-ba59-d20e25cfefe5" />
+<img width="2517" height="1306" alt="Screenshot 2026-11-17 002257" src="https://github.com/user-attachments/assets/a2841a55-98ea-45f6-8b7c-a3100b4b9f69" />
 
-<img width="2513" height="1309" alt="image" src="https://github.com/user-attachments/assets/02560352-ae6e-459f-85bd-594445448479" />
+
 The screenshots demonstrate JobTracker's dashboard, AI-based job classification, priority scoring, and detailed assessments of how job requirements match a candidate's qualifications.
 
 ## Source code
